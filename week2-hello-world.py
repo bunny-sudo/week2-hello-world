@@ -7,3 +7,12 @@
 # 4. exits
 
 # make sure that your code contains comments explaining your logic!
+print('Hello')
+print('1-English      2-French    3-Tamil')
+input(a)
+if a=='1'
+print('Good Morning')
+if a=='2'
+print('Bonjour')
+else 
+print('Wankkam')
